@@ -5,3 +5,4 @@
 
 |제목|소스|설명|비고|
 | --- | --- | --- | --- |
+| While |[loopWithCounter_while_bwh.ipynb](C_loopWithCounter_while_bwh.ipynb)| while 이용한 카운트 | |

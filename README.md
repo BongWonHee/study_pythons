@@ -1,5 +1,5 @@
 ## 설치방법
--googledrive에서 colab 설치
+- googledrive에서 colab 설치
 
 ## 의료 빅데이터 강의 파이썬 연습내용
 

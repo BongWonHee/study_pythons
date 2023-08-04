@@ -9,4 +9,5 @@
 | if | ifelses | [py](./ifelses.py) | -- |
 | input | input | [py](./user_inputs.py) | -- |
 | Data type | dictionaris | [py](./dictionaris.py) | -- |
+| Data type | datetime | [py](./datatype_datetimes.py) | -- |
 

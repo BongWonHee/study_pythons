@@ -14,9 +14,21 @@ thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 # thislist[1] = 'watermelon' thislist 내부 인덱스 변경
 # thislist[1:3] = ['cherry', 'watermelon'] 내부 인덱스2개 변경
 
+#sort
 # thislist.sort() 내부 인덱스 정렬
 # thislist.sort(reverse=True) 내부 인덱스 역정렬
+
+# 붙여넣기
+thislist = ["apple", "banana", "cherry"]
+# thislist.append('melon') melon을 뒤에서 부터 추가하기
+
+# thislist.pop() 뒤에서 부터 자료 빼기.
+# 'orange'
+# 초기화 방식
+# thislist =[]
+# thislist = list()
+
+#casting
+# words = str()
+
 pass
-
-
-

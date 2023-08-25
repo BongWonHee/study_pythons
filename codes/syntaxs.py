@@ -5,3 +5,8 @@ second = 5
 if first > second:
   print("Five is greater than two!")
 print('yojulab!')
+
+#type
+{} #dictionari
+[] #list
+() #tuple

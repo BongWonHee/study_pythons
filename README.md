@@ -1,4 +1,4 @@
-
+-- 기본 Python 문법 배우기 --
 | 분류 | 주요 내용 | 작성 | 비고 |
 | --- | --- | --- | --- |
 | helloworld | print | [py](./codes//helloWorld.py) | -- |
@@ -10,4 +10,5 @@
 | input | input | [py](./codes/user_inputs.py) | -- |
 | Data type | dictionaris | [py](./codes/datatype_dictionaris.py) | -- |
 | Data type | datetime | [py](./codes/datatype_datetimes.py) | -- |
+| function | function제작 및 사용 | [py](./codes/functions.py) | -- |
 
